@@ -21,3 +21,9 @@ https://cse341-personal-w04.onrender.com/contacts
 ```
 https://cse341-personal-w04.onrender.com/contacts/id
 ```
+
+## swagger APIs
+
+```
+https://cse341-personal-w04.onrender.com/api-docs
+```
